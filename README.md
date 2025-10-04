@@ -157,9 +157,8 @@ SYSTEM_CONFIG = {
 ### Key Performance Indicators (KPI)
 1. **Waktu Tunggu Rata-rata**
 2. **Akurasi Pengenalan Wajah**
-3. **Kepuasan Pengunjung**
-4. **Utilisasi Loket**
-5. **Throughput Sistem**
+3. **Utilisasi Loket**
+4. **Throughput Sistem**
 
 ## 🔄 Workflow Sistem
 
