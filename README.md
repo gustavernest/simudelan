@@ -46,6 +46,10 @@ graph TD
 
 ## 🖥️ Interface Sistem
 
+### System Antrian sistem
+
+[antrian app] (https://gustavernest.github.io/simudelan/)
+
 ### Dashboard Admin
 ![Dashboard Antrian](https://via.placeholder.com/800x400/4A90E2/FFFFFF?text=Dashboard+Monitoring+Antrian)
 
